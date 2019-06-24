@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin-left:20px;
     font-family:'Times New Roman', Times, serif;
@@ -120,3 +121,28 @@ h1{
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+=======
+div{
+  padding-left:500px;
+  padding-right:400px;
+}
+blockquote{
+ border:2px solid black;
+ text-align:center;
+}
+
+.column {
+
+    float: left;
+    width: 30.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+
+}
+
+
+
+li {
+    display: inline;
+  }
+>>>>>>> 92be5657e8d1382d42d9b718276e034439189ede

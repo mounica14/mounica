@@ -1,13 +1,14 @@
 body{
-    margin: 0%;
+    margin-left:20px;
     font-family:'Times New Roman', Times, serif;
-}
+    background-color: pink;
+    }
 h1{
     text-align-last: left;
 }
 
 .header-container{
-    background-color: rgb(230, 219, 175);
+    background-color:coral;
     height: 15vh;
     display:flex;
     flex-direction: row;
@@ -24,7 +25,7 @@ h1{
     }
     .nav-bar ul li a{
         text-decoration: none;
-        color: black;
+        color:black;
 
     }
     .nav-bar{

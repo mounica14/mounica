@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 body{
-    margin-left:20px;
+    margin: 0%;
     font-family:'Times New Roman', Times, serif;
-    background-color: pink;
-    }
+}
 h1{
     text-align-last: left;
 }
 
 .header-container{
-    background-color:coral;
+    background-color: rgb(230, 219, 175);
     height: 15vh;
     display:flex;
     flex-direction: row;
@@ -26,7 +24,7 @@ h1{
     }
     .nav-bar ul li a{
         text-decoration: none;
-        color:black;
+        color: black;
 
     }
     .nav-bar{
@@ -121,28 +119,3 @@ h1{
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
-=======
-div{
-  padding-left:500px;
-  padding-right:400px;
-}
-blockquote{
- border:2px solid black;
- text-align:center;
-}
-
-.column {
-
-    float: left;
-    width: 30.33%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
-
-}
-
-
-
-li {
-    display: inline;
-  }
->>>>>>> 92be5657e8d1382d42d9b718276e034439189ede
